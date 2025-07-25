@@ -1,14 +1,18 @@
 {
-  "title": "보사/다운/버튼누락!~ 테스트곡",
-  "artist": "그리움님",
-  "url": "https://music.bugs.co.kr/track/999999",
-  "lyricist": "그리움님",
-  "composer": "AI",
-  "arranger": "Angel",
-  "agency": "그리움랩",
-  "distributor": "버튼뮤직",
-  "release": "2025-07-25",
-  "lyrics": "이 곡은 보사/다운/버튼누락!~ 확인을 위한 마지막 점검 곡입니다.",
-  "score": "[Intro] G  D  Em  C",
-  "cover": "https://i.imgur.com/8Km9tLL.jpg"
+  "songs": [
+    {
+      "title": "보사/다운/버튼누락!~ 테스트곡",
+      "artist": "그리움님",
+      "url": "https://music.bugs.co.kr/track/999999",
+      "lyricist": "그리움님",
+      "composer": "AI",
+      "arranger": "Angel",
+      "agency": "그리움랩",
+      "distributor": "버튼뮤직",
+      "release": "2025-07-25",
+      "lyrics": "이 곡은 보사/다운/버튼누락!~ 확인을 위한 마지막 점검 곡입니다.",
+      "score": "[Intro] G  D  Em  C",
+      "cover": "https://i.imgur.com/8Km9tLL.jpg"
+    }
+  ]
 }
