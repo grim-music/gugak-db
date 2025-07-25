@@ -1,34 +1,4 @@
 {
-  "songs": [
-    {
-      "title": "아이유 - Love wins all",
-      "artist": "아이유",
-      "url": "https://music.bugs.co.kr/track/345678",
-      "lyricist": "아이유",
-      "composer": "이종훈",
-      "arranger": "이민수",
-      "agency": "EDAM",
-      "distributor": "카카오엔터",
-      "release": "2024-01-27",
-      "lyrics": "우린 결국 만날 운명이었나 봐\n사랑이 이긴다, 언제나...",
-      "score": "[Intro] Em  C  G  D",
-      "cover": "https://i.imgur.com/8Km9tLL.jpg"
-    },
-    {
-      "title": "윤하 - 사건의 지평선",
-      "artist": "윤하",
-      "url": "https://music.bugs.co.kr/track/654321",
-      "lyricist": "윤하",
-      "composer": "이범석",
-      "arranger": "한상원",
-      "agency": "C9 Entertainment",
-      "distributor": "지니뮤직",
-      "release": "2022-03-01",
-      "lyrics": "너는 나의 지평선 너머...",
-      "score": "[Intro] F  G  Am  Em",
-      "cover": "https://i.imgur.com/GYz6yUO.jpeg"
-    }
-  {
   "title": "보사/다운/버튼누락!~ 테스트곡",
   "artist": "그리움님",
   "url": "https://music.bugs.co.kr/track/999999",
